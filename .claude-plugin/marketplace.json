@@ -1,0 +1,14 @@
+{
+  "name": "blockworks",
+  "owner": {
+    "name": "Blockworks",
+    "url": "https://blockworks.com"
+  },
+  "plugins": [
+    {
+      "name": "blockworks",
+      "source": "./",
+      "description": "Crypto research and market data from Blockworks: search research, news and governance documents, and query asset, protocol and market datasets."
+    }
+  ]
+}
