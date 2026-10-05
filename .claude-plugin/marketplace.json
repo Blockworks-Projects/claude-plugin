@@ -1,5 +1,6 @@
 {
   "name": "blockworks",
+  "description": "Official Blockworks marketplace: crypto research and market data plugins powered by the Blockworks MCP server.",
   "owner": {
     "name": "Blockworks",
     "url": "https://blockworks.com"
