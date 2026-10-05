@@ -1,0 +1,14 @@
+{
+  "name": "blockworks",
+  "displayName": "Blockworks",
+  "version": "0.1.0",
+  "description": "Crypto research and market data from Blockworks: search research, news and governance documents, and query asset, protocol and market datasets.",
+  "author": {
+    "name": "Blockworks",
+    "url": "https://blockworks.com"
+  },
+  "homepage": "https://blockworks.com",
+  "repository": "https://github.com/Blockworks-Projects/claude-plugin",
+  "license": "MIT",
+  "keywords": ["crypto", "research", "market-data", "defi", "blockchain"]
+}
