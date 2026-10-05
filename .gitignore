@@ -3,3 +3,7 @@
 .dev
 
 
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/

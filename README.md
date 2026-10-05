@@ -66,7 +66,7 @@ The catalogs list only the datasets that Blockworks publishes to its public API.
 
 ## Data and privacy
 
-The plugin sends your questions and tool arguments only to the Blockworks MCP server at `mcp.blockworks.com`. It runs no local code and no hooks. Your API key goes only to Blockworks. See the Blockworks [Terms](https://blockworks.com/terms) and [Privacy Policy](https://blockworks.com/privacy).
+The plugin sends your questions and tool arguments only to the Blockworks MCP server at `mcp.blockworks.com`. It runs no local code and no hooks. Your API key goes only to Blockworks. See the Blockworks [Terms](https://blockworks.com/terms) and [Privacy Policy](https://blockworks.com/privacy-policy).
 
 ## Install
 

@@ -7,7 +7,8 @@
     "name": "Blockworks",
     "url": "https://blockworks.com"
   },
-  "homepage": "https://blockworks.com",
+  "homepage": "https://docs.blockworks.com/mcp/overview",
+  "privacyPolicyUrl": "https://blockworks.com/privacy-policy",
   "repository": "https://github.com/Blockworks-Projects/claude-plugin",
   "license": "MIT",
   "keywords": ["crypto", "research", "market-data", "defi", "blockchain"]
